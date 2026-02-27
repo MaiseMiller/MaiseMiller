@@ -4,15 +4,14 @@ Hello 👋 My name is Wilfred Okore
 Programming Student
 -------------
 
-I am a passionate programming student. I enjoy learning, building, and exploring new ideas that challenge me to grow in the tech space. My primary goal is to become a certified programmer while building practical projects and continuously learning new concepts.
+I am a passionate programmer who enjoys learning, building, and exploring new ideas that challenge me to grow in the tech space. My primary goal is to build practical projects and continuously learn new concepts.
 
 I am excited about collaboration and knowledge sharing.
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [wilfredokore@gmail.com](mailto:wilfredokore@gmail.com)
-* 🧠  I'm currently learning Learning the fundamentals of web development and building small projects to practice.
 * 👥  I'm looking to collaborate on beginner-friendly projects where I can learn and contribute.
-* 💬  Ask me about JavaScript and HTML.
+* 💬  Ask me about programming.
 
 ### Socials
 
